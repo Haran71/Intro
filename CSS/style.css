@@ -1,0 +1,20 @@
+body {
+  background-color: #9FB4FF;
+}
+hr {
+  background-color: inherit;
+  border-color: grey;
+  border-style: dotted none none none;
+  border-width: 5px;
+  height: 2px;
+  width: 5%;
+}
+
+h1 {
+  font-family: Marker Felt, fantasy;
+  color:#99FFCD;
+}
+
+h3 {
+  color: #99FFCD;
+}
